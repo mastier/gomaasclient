@@ -17,3 +17,5 @@ require (
 	github.com/juju/version v0.0.0-20191219164919-81c1be00b9a6 // indirect
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 )
+
+replace github.com/maas/gomaasclient => github.com/mastier/gomaasclient v0.0.1
